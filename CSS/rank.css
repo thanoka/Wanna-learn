@@ -43,6 +43,7 @@
     padding: 20px 20px;
     top: 50%; left: 50%; translate: -50% -50%;
     column-gap: 50px;
+    z-index: -1;
 }
 
 h1{
